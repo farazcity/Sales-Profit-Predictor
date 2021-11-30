@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 
-data_frame=pd.read_csv('nomalized_data.csv')
+data_frame=pd.read_csv('nomalized_dat.csv')
 print(data)
 
 # Splitting the data into train and test sections
